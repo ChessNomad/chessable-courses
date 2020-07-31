@@ -9,7 +9,7 @@ Source:
 # Data Set Information:
 One of the most interesting platforms to interactively learn chess is [chessable](chessable.com). The platform offers courses where learners get direct feedback on what they are doing. This can be textual feedback or even video. 
 
-The platform has recently been bought by chess world champion Magnus Carlsen to support the ongoing quest to digitalize and professionalize chess. At 30-07-2020 there are a total of 380 courses and bundles available on chessable. From now on I will use the word course when I use course or bundle. 
+The platform has recently been bought by chess world champion Magnus Carlsen to support the ongoing quest to digitalize and professionalize chess. At 30-07-2020 there are a total of 376 courses available on chessable. 
 
 The details of all these courses were scraped using Selenium, the scraping script is included. 
 
